@@ -1,0 +1,6 @@
+idea:
+http://idea.iteblog.com/key.php
+
+pycharm:
+http://xidea.online
+
